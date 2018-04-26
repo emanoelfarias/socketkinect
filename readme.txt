@@ -13,8 +13,4 @@ $ cmake ..
 $ make
 ```
 
-by Emanoel Anderson
-
-emanoel100g@gmail.com
-
 
