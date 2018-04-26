@@ -22,7 +22,7 @@
 #define _ONI_PLATFORM_LINUX_ARM_H_
 
 // Start with Linux-x86, and override what's different
-#include "../Linux-x86/OniPlatformLinux-x86.h"
+#include "OniPlatformLinux-x86.h"
 
 //---------------------------------------------------------------------------
 // Platform Basic Definition
